@@ -1,6 +1,6 @@
 # Maze generation.
 
-It's a small post processing demo where you can use the 4 buttons to change or clear the effects on screen.
+It's a simple maze generation project.
 
 ## Features.
 
